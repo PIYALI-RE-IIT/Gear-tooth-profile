@@ -1,10 +1,8 @@
 ## References
 
 #### Books
-1. Keil, S. (2017). Technology and practical use of strain gages: with particular consideration of stress analysis using strain gages. John Wiley & Sons.
+1.	Gupta, I.C., 2018. Engineering Metrology. Dhanpat Rai Publications
 
 #### websites
 
-1. NPTEL (e-learning courses from IITs and IISC)
-
-2. https://www.electrical4u.com/strain-gauge/
+1. https://archive.nptel.ac.in/courses/112/104/112104250/ 

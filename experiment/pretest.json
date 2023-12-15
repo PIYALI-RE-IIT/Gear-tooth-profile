@@ -2,56 +2,56 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Which principle is the basis for the operation of a strain gauge?",
+      "question": "The purpose of gears in mechanical systems is to",
       "answers": {
-        "a": "Piezoelectric effect",
-        "b": "Piezoresistive effect",
-        "c": "Photoelectric effect",
-        "d": "Magnetic resonance"
+        "a": "Transfer electrical power",
+        "b": "Transfer motion between rotating shafts",
+        "c": "Generate heat",
+        "d": "None of the above"
       },
       "correctAnswer": "b",
       "difficulty": "Beginner"
     },
     {
-      "question": "What is the function of Wheatstone bridge circuit in strain gauge measurements?",
+      "question": "Gear ratio is defined as ",
       "answers": {
-        "a": "Amplify the strain signal",
-        "b": "Provide power to the strain gauge",
-        "c": "Compensate for temperature changes",
-        "d": "Detect and measure changes in resistance"
+        "a": "Speed of input gear",
+        "b": "The ratio of the number of teeth on the driven to driver gear",
+        "c": "Pitch circle diameter of driven gear",
+        "d": "All of the above"
+      },
+      "correctAnswer": "b",
+      "difficulty": "Beginner"
+    },
+    {
+      "question": "The dedendum of the gear tooth profile is defined as",
+      "answers": {
+        "a": "Thickness of gear tooth",
+        "b": "Distance from the pitch circle to the tip of the tooth",
+        "c": "Distance between the pitch circle to the root circle",
+        "d": "The height of the tooth above the pitch circle"
+      },
+      "correctAnswer": "c",
+      "difficulty": "Beginner"
+    },
+    {
+      "question": "Which type of gears have non-parallel and non-intersecting shafts?",
+      "answers": {
+        "a": "Spur gears",
+        "b": "Bevel gears",
+        "c": "Helical gears",
+        "d": "Worm gears"
       },
       "correctAnswer": "d",
       "difficulty": "Beginner"
     },
     {
-      "question": "What is the purpose of applying known loads during strain gauge calibration?",
+      "question": "The fundamental principle of the law of gearing is:",
       "answers": {
-        "a": "To measure strain directly",
-        "b": "To test the strain gauge's durability",
-        "c": "To determine the resistance of the gauge",
-        "d": "To establish a relationship between load and resistance change"
-      },
-      "correctAnswer": "d",
-      "difficulty": "Beginner"
-    },
-    {
-      "question": "The calibration curve of a strain gauge is typically:",
-      "answers": {
-        "a": "Non-linear",
-        "b": "Exponential",
-        "c": "S-shaped",
-        "d": "Linear"
-      },
-      "correctAnswer": "d",
-      "difficulty": "Beginner"
-    },
-    {
-      "question": "What does the sensitivity of a strain gauge represent?",
-      "answers": {
-        "a": "The strain it can measure",
-        "b": "The change in resistance per unit load",
-        "c": "Its resistance when no load is applied",
-        "d": "Its temperature stability"
+        "a": "Torque is directly proportional to the gear ratio",
+        "b": "The velocity ratio is constant for gears in mesh.",
+        "c": "The pitch circle diameter determines the gear ratio.",
+        "d": "All of the above"
       },
       "correctAnswer": "b",
       "difficulty": "Beginner"
