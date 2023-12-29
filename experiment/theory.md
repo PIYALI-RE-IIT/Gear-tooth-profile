@@ -132,5 +132,65 @@ $$h_2 = DE = R(1 - cos (\alpha / 2)) = \frac{Nm}{2} (1 - cos \Pi / 2 N)$$
 “t” is the chord ADB while tooth thickness is the arc AEB. Therefore the tooth thickness thus 
 measured is called “Chordal tooth thickness”.
 
+The measurement of tooth thickness (t<sub>1</sub>) is started from any one tooth by marking it Leaving one tooth the next one is measured as t2. Leaving another tooth the next one is measured as t3. The procedure is followed till all the 30 teeth are measured.
+
+**Span Measurement**
+Considering the below figure ,
+
+AF + FB = A′F + FB′ = arc length CD along the base circle as shown in figure 9.
+Hence the measurement of the span AB can be taken in any position with the Flange
+Micrometer touching tooth flange. Any tooth thickness error will show a corresponding error
+in the value of AB.
+Let the number of teeth in the span of AB be “n”.
+
+then,
+$$\beta = \frac{(n-1)2\pi}{N}$$
+
+$$OD = \frac{N m cos(\gamma/2)}{2}$$
+
+$$\gamma = 2 inv \psi$$
+where,
+$$inv \psi = tan \psi -\psi(radians)$$
+$$CD = (\beta + \gamma)OD$$
+$$AB =CD = A'B'$$
+$$AB = \frac{(\beta + \gamma)}{2}Nm cos\frac{\gamma}{2}$$
+
+where,
+$$\alpha = \frac{\pi}{N}$$
+$$\beta = \frac{(n-1)2\pi}{N}$$
+$$\gamma = 2 inv \psi$$
+
+The optimum number of teeth “n” for the measurement of the span can be found by taking
+the contact points near the pitch points.
+$$AB = AF + FB = CD = 2OF(\psi + inv \psi )$$
+
+n = nearest integer to $$\frac{AB \times N}{\pi N m \ cos \psi} = \frac{N(\psi + inv \psi)}{\pi}$$
+
+$$n = \frac{N tan \psi}{\pi}$$
+
+here, 
+$$\psi = 20\deg$$
+$$N = 30$$
+
+<div align="center">
+<img src="images/gearspan.png" class="img-fluid">
+</div>
+
+Maximum variation in values of the span measured =
+Theoretically the value of the span is given by
+
+$$AB = \frac{(\beta + \gamma)N m cos (\gamma/2)}{}$$
+$$inv \psi = tan \psi - \psi = tan 20 \deg - 20\frac{\pi}{180}$$
+
+Difference between the theoretical and observed values is measured in mm.
+
+
+
+
+
+
+
+
+
 
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>								
