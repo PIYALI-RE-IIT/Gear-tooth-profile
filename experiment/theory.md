@@ -182,6 +182,7 @@ Theoretically the value of the span is given by
 $$AB = \frac{(\beta + \gamma)N m cos (\gamma/2)}{}$$
 $$inv \psi = tan \psi - \psi = tan 20 \deg - 20\frac{\pi}{180}$$
 
+Appoximately it is 33.135 mm.
 Difference between the theoretical and observed values is measured in mm.
 
 
