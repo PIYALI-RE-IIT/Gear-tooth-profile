@@ -20,10 +20,10 @@ This experiment is having two parts i)Gear tooth thickness calculation and ii)Sp
 
 5. Click on the 'Minus' sign of 'Horizontal scale jaw' to fix the red marked tooth properly according to its width.
 
-6. When it is properly fixed between the jaws one alert message will be seen. Click on 'Measure' button to measure the tooth thickness as t<sub>1</sub>.
+6. When it is properly fixed between the jaws one alert message will be seen. It is now properly fixed for a gear tooth so no need to adjust the horizontal jaw position for rest of the experiment. Click on 'Measure' button to measure the tooth thickness as t<sub>1</sub>.
 
 7. Click on the left side arrow sign of 'Rotate Gear' button. The gear will rotate in clockwise direction. Rotate it untill a tooth with black mark
-comes between the horizontaljaws of Vernier caliper. Click on 'Measure' button to measure this tooth thickness as t<sub>2</sub>.
+comes between the horizontal jaws of Vernier caliper. Click on 'Measure' button to measure this tooth thickness as t<sub>2</sub>.
 
 8. Again click on the left side arrow sign of 'Rotate Gear' button untill another tooth with black mark
 comes between the horizontaljaws of Vernier caliper. Click on 'Measure' button to measure this tooth thickness as t<sub>3</sub>.
