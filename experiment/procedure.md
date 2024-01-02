@@ -55,7 +55,7 @@ Figure 2. Flange micrometer with spur gear
 
 2. Click on the Spur Gear to place it exactly between the screws of flange micrometer.
 
-3. Click on the right side arrow sign of 'Rotate Micrometer' button. The circular scale will rotate, wait untill it stops rotating. Again rotate it to move the movable screw of micrometer towards right side. Rotate untill a span of three theeth with two red marks comes between the screws of micrometer. Click on 'Measure' button to measure this span thickness as Span<sub>1</sub>.
+3. Click on the right side arrow sign of 'Rotate Micrometer' button. The circular scale will rotate, wait untill it stops rotating. Again rotate it to move the movable screw of micrometer towards right side. Rotate untill a span of three theeth with two red marks comes between the screws of micrometer ( untill an alert message comes ('Fixed properly')). Click on 'Measure' button to measure this span thickness as Span<sub>1</sub>.
 
 4. Click on the left side arrow sign of 'Rotate Gear' button. The gear will rotate in clockwise direction. Rotate it untill another span of three theeth with two red marks comes between the screws of micrometer. Click on 'Measure' button to measure this span thickness as Span<sub>2</sub>.
 Click on 'Calculate' button to calculate the mean span.
