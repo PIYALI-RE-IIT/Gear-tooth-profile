@@ -135,6 +135,7 @@ measured is called “Chordal tooth thickness”.
 The measurement of tooth thickness (t<sub>1</sub>) is started from any one tooth by marking it Leaving one tooth the next one is measured as t2. Leaving another tooth the next one is measured as t3. The procedure is followed till all the 30 teeth are measured.
 
 **Span Measurement**
+
 Considering the below figure ,
 
 AF + FB = A′F + FB′ = arc length CD along the base circle as shown in figure 9.
