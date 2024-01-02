@@ -677,7 +677,7 @@ function calculate(){
 	var sub = math.subtract(max,min);
 	$('#varit').val(sub);
 	$('#tmt').css('display','block');
-	$('#pmt').css('display','block');	
+	//$('#pmt').css('display','block');	
 }
 
 function calculate2(){
