@@ -55,7 +55,8 @@ Figure 2. Flange micrometer with spur gear
 
 2. Click on the Spur Gear to place it exactly between the screws of flange micrometer.
 
-3. Click on the right side arrow sign of 'Rotate Micrometer' button. The circular scale will rotate, wait untill it stops rotating. Again rotate it to move the movable screw of micrometer towards right side. Rotate untill a span of three theeth with two red marks comes between the screws of micrometer ( untill an alert message comes ('Fixed properly')). Click on 'Measure' button to measure this span thickness as Span<sub>1</sub>.
+3. Click on the right side arrow sign of 'Rotate Micrometer' button. The circular scale will rotate, wait untill it stops rotating. Again rotate it to move the movable screw of micrometer towards right side. Rotate untill a span of three theeth with two red marks comes between the screws of micrometer ( untill an alert message comes ('Fixed properly')). The movable screw is now properly fixed for a span of three gear teeth.
+No need to adjust it for rest of the experiment. Click on 'Measure' button to measure this span thickness as Span<sub>1</sub>.
 
 4. Click on the left side arrow sign of 'Rotate Gear' button. The gear will rotate in clockwise direction. Rotate it untill another span of three theeth with two red marks comes between the screws of micrometer. Click on 'Measure' button to measure this span thickness as Span<sub>2</sub>.
 Click on 'Calculate' button to calculate the mean span.
@@ -70,8 +71,8 @@ Click on 'Calculate' button to calculate the mean span.
 
 9. Now follow steps 4-7 to measure the span of three gear teeth ( with one red and one blue marks ). 4 teeth spans are there with one blue and one red mark, hence at the end there would be total 8 span readings.
 
-10. Click on 'Clear' button to erase the observation data. Click on 'Table' button to hide the observation table.
+10. Calculate the average Mean Span from the observation table and calculate the variation between theoritical and average mean span value.	The theoritical span value is written in 'Theory' part.
 
-11. Calculate the average Mean Span from the observation table and calculate the variation between theoritical and average mean span value. The theoritical span value is written in 'Theory' part. The first part of the experiment i.e. 'Gear tooth thickness calculation' can be performed again by clicking on 'Tooth Thickness' under 'Experiment Parts'.
+11. Click on 'Clear' button to erase the observation data. Click on 'Table' button to hide the observation table. The first part of the experiment i.e. 'Gear tooth thickness calculation' can be performed again by clicking on 'Tooth Thickness' under 'Experiment Parts'.
 
   
