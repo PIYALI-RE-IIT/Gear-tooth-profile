@@ -1,4 +1,1 @@
-## Aim of the experiment
-
-To measure spur gear tooth elements.
-                
+### Aim of the experiment
